@@ -1,0 +1,11 @@
+all messages sent from ip 194.210.61.136
+
+[2024-09-06T20:57:04.300000+00:00Z] miguistar_58253: Hey Diogo! You won’t believe what I just found.
+[2024-09-06T20:57:54.571000+00:00Z] miguistar_58253: I managed to access Virgolino’s computer and found some shady things. There is a bank statement with a weird transaction for a "MKU-2784"; I searched for it and seems to be linked to mind control!
+[2024-09-06T20:58:16.753000+00:00Z] miguistar_58253: Yeah, but there's more, I also found the documentation of an API related to it and an email from Rafael telling him to execute some commands on it.
+[2024-09-06T20:58:47.890000+00:00Z] miguistar_58253: I can barely believe it as well
+[2024-09-06T20:58:54.100000+00:00Z] miguistar_58253: I’m thinking of exposing this, people need to know what’s going on.
+[2024-09-06T20:59:12.389000+00:00Z] miguistar_58253: I get that it’s risky, but if it’s shady, it has to come out
+[2024-09-06T20:59:39.808000+00:00Z] miguistar_58253: I know, I’ll be cautious
+[2024-09-06T20:59:50.860000+00:00Z] miguistar_58253: I'll try to see if I can get something from Rafael as well
+[2024-09-06T21:00:27.292000+00:00Z] miguistar_58253: Will do!
